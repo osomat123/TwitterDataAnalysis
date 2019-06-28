@@ -1,0 +1,12 @@
+{
+"app_name": "Tweets for Data Analysis",
+"api_key":"wgWuArYk8ySXQ7L4k0lbuwtkB",
+"api_secret_key": "jdINkSkU7mQteF56174GX5gkkhsDtO0fCTMGQm1HRauMS6VbHX",
+"access_token": "",
+"access_secret_token":"",
+"oauth_token_secret": "tDkcAV7jO2CUB2GmYbSpUHL0uiwgJ4bveqlkHchLMQYNt",
+"user_id": "",
+"oauth_token": "798916187526598656-wjOM40CgDckzHYZhxf1eNDWZsIYJMqI",
+"screen_name": "",
+"link": "https://twython.readthedocs.io/en/latest/usage/starting_out.html"
+}
