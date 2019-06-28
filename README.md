@@ -30,12 +30,12 @@ Using the data present in the DataFrame, graphs are produced using the matplotli
 
 In the course of this project, the following graphs have been produced:
 
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="plot_time_hist.png">
+<img src="plot_keyword_bar.png">
+<img src="plot_maxLikes_bar.png">
+<img src="plot_likesMeanStd_bar.png">
+<img src="plot_maxRetweets_bar.png">
+<img src="plot_retweetsMeanStd_bar.png">
 
 _analytics.py_ and _tweet_d1fdaab1-b8c1-4f6b-b7e9-17844d8d6186.json_ are the files in the repository which pertain to this stage of the project and _plot_keyword_bar.png_, _plot_likesMeanStd_bar.png_, _plot_maxLikes_bar.png_, _plot_maxRetweets_bar.png_, _plot_retweetsMeanStd_bar.png_ and _plot_time_hist.png_ are the filenames of the graphs produced
 ## Creating a Graph Database which links users and tweets together
@@ -52,4 +52,7 @@ Since the useful tweets have been filtered in the previous stage and stored in a
 Finally, data is added to the database using py2neo.
 
 This following is the graph showing the database created and the relationships between users and tweets:
-<img src="">
+
+<img src="twitter_graph.png">
+
+_graphDB.py_, _analytics.py_ and _tweet_d1fdaab1-b8c1-4f6b-b7e9-17844d8d6186.json_ are the files pertaining to this stage of the project
