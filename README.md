@@ -36,6 +36,7 @@ In the course of this project, the following graphs have been produced:
 <img src="plot_likesMeanStd_bar.png">
 <img src="plot_maxRetweets_bar.png">
 <img src="plot_retweetsMeanStd_bar.png">
+<img src="plot_tweetSource_bar.png">
 
 _analytics.py_ and _tweet_d1fdaab1-b8c1-4f6b-b7e9-17844d8d6186.json_ are the files in the repository which pertain to this stage of the project and _plot_keyword_bar.png_, _plot_likesMeanStd_bar.png_, _plot_maxLikes_bar.png_, _plot_maxRetweets_bar.png_, _plot_retweetsMeanStd_bar.png_ and _plot_time_hist.png_ are the filenames of the graphs produced
 ## Creating a Graph Database which links users and tweets together
