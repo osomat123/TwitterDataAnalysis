@@ -40,7 +40,7 @@ In the course of this project, the following graphs have been produced:
 
 _analytics.py_ and _tweet_d1fdaab1-b8c1-4f6b-b7e9-17844d8d6186.json_ are the files in the repository which pertain to this stage of the project and _plot_keyword_bar.png_, _plot_likesMeanStd_bar.png_, _plot_maxLikes_bar.png_, _plot_maxRetweets_bar.png_, _plot_retweetsMeanStd_bar.png_ and _plot_time_hist.png_ are the filenames of the graphs produced
 ## Creating a Graph Database which links users and tweets together
-The next stage of the projext involves creating a graph database with the Tweet data obtained in order to link together the users and their tweets and retweets. In this project, the graph database is created using neo4j and the required python code is written with the module py2neo.
+The next stage of the project involves creating a graph database with the Tweet data obtained in order to link together the users and their tweets and retweets. In this project, the graph database is created using neo4j and the required python code is written with the module py2neo.
 
 In the database, the data is modelled in the following way:
 1. Every user is represented by a **User** Node with **UserID** and **ScreenName** as its properties
